@@ -155,3 +155,38 @@ increaseObject(numberObject);
 `);
 
 console.log(numberObject);
+
+console.log(`***********Adding or Removing Properties*************`);
+
+console.log(`***********Adding Properties*************`);
+/**First Approach  */
+console.log("First Approach Dot Notation");
+circle.location = {
+  x: 1,
+};
+
+console.log(`
+circle.location = {
+  x: 1,
+};
+`);
+
+/**Second Approach */
+console.log("First Approach Bracket Notation");
+console.log(`
+circle["location2"] = { x: 3 };
+`);
+
+circle["location2"] = { x: 3 };
+
+console.log(circle);
+
+console.log(`***********Remove Properties*************`);
+
+console.log(`delete circle.location with the dot notation`);
+
+console.log(`or use the brackets notation delete circle{'location'};`);
+
+delete circle.location;
+
+console.log(circle);
