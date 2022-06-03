@@ -190,3 +190,65 @@ console.log(`or use the brackets notation delete circle{'location'};`);
 delete circle.location;
 
 console.log(circle);
+
+/**Abstraction
+ *
+ */
+console.log(`******ABSTRACTION******`);
+
+console.log("Declaration of Private Properties and Methods");
+console.log("With ***LET*** to declare like a local variable and convert");
+console.log("the functions an private methods");
+
+function CircleAbstraction(radius) {
+  this.radius = radius;
+  let defaultLocation = { x: 0, y: 0 };
+  let computedOptimumLocation = function () {};
+
+  console.log(`  
+  this.draw = function () {
+    computedOptimumLocation();/**This is access for closure */
+  };`);
+  this.draw = function () {
+    computedOptimumLocation(); /**This is access for closure */
+    //You can access from here
+    //defaultLocation
+    //this.radius
+  };
+}
+
+const circleObjectAbs = new CircleAbstraction(10);
+
+console.log(
+  `Now we only have access to radios property and the draw() function`
+);
+
+function CircleGettesSetters(radius) {
+  this.radius = radius;
+  let defaultLocation = { x: 0, y: 0 };
+
+  this.getDefaultLocation = function () {
+    return defaultLocation;
+  };
+
+  this.draw = function () {
+    console.log("Draw");
+  };
+
+  Object.defineProperty(this, "defaultLocation", {
+    get: function () {
+      return defaultLocation;
+    },
+    set: function (value) {
+      if (!value.x || !value.y) throw new Error("Invalid location");
+      defaultLocation = value;
+    },
+  });
+}
+
+const circleObjectGetterSetter = new CircleGettesSetters(10);
+//circleObjectGetterSetter.defaultLocation = 1;
+console.log(circleObjectGetterSetter);
+
+console.log(`******INHERITANCE******`);
+console.log(`***We have 2 types of Inheritance Classical and Prototypical***`);
