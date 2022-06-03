@@ -252,3 +252,25 @@ console.log(circleObjectGetterSetter);
 
 console.log(`******INHERITANCE******`);
 console.log(`***We have 2 types of Inheritance Classical and Prototypical***`);
+
+console.log(`******INHERITANCE IN ES6 WITH CLASSES******`);
+
+class ShapeC {
+  constructor(color) {
+    this.color = color;
+  }
+  move() {
+    console.log("move");
+  }
+}
+class CircleC extends ShapeC {
+  constructor(color, radius) {
+    super(color);
+    this.radius = radius;
+  }
+  draw() {
+    console.log("draw");
+  }
+}
+
+const c = new CircleC("red", 5);
