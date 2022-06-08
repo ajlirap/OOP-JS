@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YtYlloiVST3d1o2LTABnqRdaDa+OyRUQtcFqqZ+3dmiwiuNUYuwDopFT8yOgFEagvO23VMcWS/pxUYVeOhUpsw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arturo\\source\\repos\\Practices-70-483-2020\\Practices-70-483-2020\\Practices-70-483-2020.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arturo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

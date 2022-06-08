@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alert xmlns="urn:oasis:names:tc:emergency:cap:1.2">
+  <identifier>ZCZC-CIV-CAE-018000+0300-0901327-</identifier>
+  <sender>CIV</sender>
+  <sent>2021-03-31T13:27:10-00:00</sent>
+  <status>Actual</status>
+  <msgType>Alert</msgType>
+  <source>10.1.65.21</source>
+  <scope>Public</scope>
+  <code>IPAWSv1.0</code>
+  <info>
+    <language>en-US</language>
+    <category>Safety</category>
+    <event>Child Abduction Emergency</event>
+    <urgency>Immediate</urgency>
+    <severity>Unknown</severity>
+    <certainty>Unknown</certainty>
+    <eventCode>
+      <valueName>SAME</valueName>
+      <value>CAE</value>
+    </eventCode>
+    <expires>2021-03-31T12:27:10-04:00</expires>
+    <description>A Statewide AMBER Alert has been declared, repeating, a Statewide AMBER Alert has been declared.
+
+The Lawrence Police Department has requested the activation of an AMBER Alert from Lawrence, Indiana which is 17 miles north east of Indianapolis.  
+
+The victim, Jeremiah Jordan, is a 10 year old black male, 5 feet 1 inch tall, 110 pounds, black hair with brown eyes, and last seen wearing black coat, green shirt with 8 on the front and blue jeans.  Jeremiah was last seen on Wednesday, March 31, 2021, at 7:30 am in Lawrence, Indiana and is believed to be in extreme danger. 
+ 
+The suspect, is a white female 5 feet 5 inches tall, 110 pounds, last seen wearing black coat, light colored hoodie, and black pants  and driving a dark green 2005 Honda Pilot, back windows are tinted, and passenger side rear hubcap is missing. The Indiana paper plate is L803234. 
+
+If you have any information on this incident, contact the Lawrence Police Department at 317-545-4517 or 911.
+
+This concludes this AMBER Alert.
+</description>
+    <instruction>317-545-4517 and/or 911</instruction>
+    <parameter>
+      <valueName>EASText</valueName>
+      <value>Civil Authorities have issued a Child Abduction Emergency for  All of Indiana. Effective until March 31, 12:27 PM EDT. A Statewide AMBER Alert has been declared, repeating, a Statewide AMBER Alert has been declared. The Lawrence Police Department has requested the activation of an AMBER Alert from Lawrence, Indiana which is 17 miles north east of Indianapolis.  The victim, Jeremiah Jordan, is a 10 year old black male, 5 feet 1 inch tall, 110 pounds, black hair with brown eyes, and last seen wearing black coat, green shirt with 8 on the front and blue jeans. Jeremiah was last seen on Wednesday, March 31, 2021, at 7:30 am in Lawrence, Indiana and is believed to be in extreme danger.  The suspect, is a white female 5 feet 5 inches tall, 110 pounds, last seen wearing black coat, light colored hoodie, and black pants and driving a dark green 2005 Honda Pilot, back windows are tinted, and passenger side rear hubcap is missing. The Indiana paper plate is L803234.  If you have any information on this incident, contact the Lawrence Police Department at 317-545-4517 or 911. This concludes this AMBER Alert.  317-545-4517 and/or 911</value>
+    </parameter>
+    <parameter>
+      <valueName>EAS-ORG</valueName>
+      <value>CIV</value>
+    </parameter>
+    <resource>
+      <resourceDesc>EAS Broadcast Content</resourceDesc>
+      <mimeType>audio/mp3</mimeType>
+      <uri>http://10.1.65.21/alert/audio/ZCZC-CIV-CAE-018000+0300-0901327-en-us.mp3</uri>
+    </resource>
+    <area>
+      <areaDesc>affected locations</areaDesc>
+      <geocode>
+        <valueName>SAME</valueName>
+        <value>018000</value>
+      </geocode>
+    </area>
+  </info>
+</alert>

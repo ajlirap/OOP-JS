@@ -1,0 +1,13 @@
+C:\Users\Arturo\source\repos\Practices-70-483-2020\Grouping Operator\bin\Debug\netcoreapp3.1\Grouping Operator.exe
+C:\Users\Arturo\source\repos\Practices-70-483-2020\Grouping Operator\bin\Debug\netcoreapp3.1\Grouping Operator.deps.json
+C:\Users\Arturo\source\repos\Practices-70-483-2020\Grouping Operator\bin\Debug\netcoreapp3.1\Grouping Operator.runtimeconfig.json
+C:\Users\Arturo\source\repos\Practices-70-483-2020\Grouping Operator\bin\Debug\netcoreapp3.1\Grouping Operator.runtimeconfig.dev.json
+C:\Users\Arturo\source\repos\Practices-70-483-2020\Grouping Operator\bin\Debug\netcoreapp3.1\Grouping Operator.dll
+C:\Users\Arturo\source\repos\Practices-70-483-2020\Grouping Operator\bin\Debug\netcoreapp3.1\Grouping Operator.pdb
+C:\Users\Arturo\source\repos\Practices-70-483-2020\Grouping Operator\obj\Debug\netcoreapp3.1\Grouping Operator.csprojAssemblyReference.cache
+C:\Users\Arturo\source\repos\Practices-70-483-2020\Grouping Operator\obj\Debug\netcoreapp3.1\Grouping Operator.AssemblyInfoInputs.cache
+C:\Users\Arturo\source\repos\Practices-70-483-2020\Grouping Operator\obj\Debug\netcoreapp3.1\Grouping Operator.AssemblyInfo.cs
+C:\Users\Arturo\source\repos\Practices-70-483-2020\Grouping Operator\obj\Debug\netcoreapp3.1\Grouping Operator.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\source\repos\Practices-70-483-2020\Grouping Operator\obj\Debug\netcoreapp3.1\Grouping Operator.dll
+C:\Users\Arturo\source\repos\Practices-70-483-2020\Grouping Operator\obj\Debug\netcoreapp3.1\Grouping Operator.pdb
+C:\Users\Arturo\source\repos\Practices-70-483-2020\Grouping Operator\obj\Debug\netcoreapp3.1\Grouping Operator.genruntimeconfig.cache

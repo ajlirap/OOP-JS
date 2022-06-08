@@ -1,0 +1,15 @@
+C:\Users\Arturo\source\repos\EventsAndDelegates\EventsAdnDelegates\bin\Debug\net6.0\EventsAdnDelegates.exe
+C:\Users\Arturo\source\repos\EventsAndDelegates\EventsAdnDelegates\bin\Debug\net6.0\EventsAdnDelegates.deps.json
+C:\Users\Arturo\source\repos\EventsAndDelegates\EventsAdnDelegates\bin\Debug\net6.0\EventsAdnDelegates.runtimeconfig.json
+C:\Users\Arturo\source\repos\EventsAndDelegates\EventsAdnDelegates\bin\Debug\net6.0\EventsAdnDelegates.dll
+C:\Users\Arturo\source\repos\EventsAndDelegates\EventsAdnDelegates\bin\Debug\net6.0\EventsAdnDelegates.pdb
+C:\Users\Arturo\source\repos\EventsAndDelegates\EventsAdnDelegates\obj\Debug\net6.0\EventsAdnDelegates.csproj.AssemblyReference.cache
+C:\Users\Arturo\source\repos\EventsAndDelegates\EventsAdnDelegates\obj\Debug\net6.0\EventsAdnDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arturo\source\repos\EventsAndDelegates\EventsAdnDelegates\obj\Debug\net6.0\EventsAdnDelegates.AssemblyInfoInputs.cache
+C:\Users\Arturo\source\repos\EventsAndDelegates\EventsAdnDelegates\obj\Debug\net6.0\EventsAdnDelegates.AssemblyInfo.cs
+C:\Users\Arturo\source\repos\EventsAndDelegates\EventsAdnDelegates\obj\Debug\net6.0\EventsAdnDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\source\repos\EventsAndDelegates\EventsAdnDelegates\obj\Debug\net6.0\EventsAdnDelegates.dll
+C:\Users\Arturo\source\repos\EventsAndDelegates\EventsAdnDelegates\obj\Debug\net6.0\refint\EventsAdnDelegates.dll
+C:\Users\Arturo\source\repos\EventsAndDelegates\EventsAdnDelegates\obj\Debug\net6.0\EventsAdnDelegates.pdb
+C:\Users\Arturo\source\repos\EventsAndDelegates\EventsAdnDelegates\obj\Debug\net6.0\EventsAdnDelegates.genruntimeconfig.cache
+C:\Users\Arturo\source\repos\EventsAndDelegates\EventsAdnDelegates\obj\Debug\net6.0\ref\EventsAdnDelegates.dll

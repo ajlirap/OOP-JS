@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OPLGc9ENxvPGNwn6rXnTSvdJ1jqfh7w4lcOlPp+Pg/ixyfdYmNkbqfdzght34i0JiRDPpW0IBRnlvpfimYxvCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arturo\\source\\repos\\Practices-70-483-2020\\ForLogic\\ForLogic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arturo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

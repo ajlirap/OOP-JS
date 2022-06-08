@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "7J5PuKTuArgo52G8GKF2j6MxSbp0973qqotWmzlJBMU7f+LaQn5pCIaIFG4GEF19pjci00rdDRQOTGBZQaZB2A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arturo\\source\\repos\\Snippets\\Snippets.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arturo\\.nuget\\packages\\microsoft.csharp\\4.4.1\\microsoft.csharp.4.4.1.nupkg.sha512",
+    "C:\\Users\\Arturo\\.nuget\\packages\\system.commandline\\2.0.0-beta1.20359.2\\system.commandline.2.0.0-beta1.20359.2.nupkg.sha512",
+    "C:\\Users\\Arturo\\.nuget\\packages\\system.commandline.dragonfruit\\0.3.0-alpha.20309.1\\system.commandline.dragonfruit.0.3.0-alpha.20309.1.nupkg.sha512",
+    "C:\\Users\\Arturo\\.nuget\\packages\\system.commandline.rendering\\0.3.0-alpha.20309.1\\system.commandline.rendering.0.3.0-alpha.20309.1.nupkg.sha512",
+    "C:\\Users\\Arturo\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Arturo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

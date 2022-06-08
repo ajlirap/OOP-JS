@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.14.0",
+    "libraryName": "sp-message",
+    "libraryId": "ad44ca24-e07f-45b7-94e0-cfc77be63876",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "SPMessage",
+    "solutionShortDescription": "SPMessage description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

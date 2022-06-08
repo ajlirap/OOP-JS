@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Iq8fd18x0fe637CAPf14p1iRGoPGCJ6Wn94OhoLzWK4P4wS2IA0UVpDxxcItI1csDU+SDIx3bAwLTNjeqhDLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arturo\\source\\repos\\Practices-70-483-2020\\StringsManipulation\\StringsManipulation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arturo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

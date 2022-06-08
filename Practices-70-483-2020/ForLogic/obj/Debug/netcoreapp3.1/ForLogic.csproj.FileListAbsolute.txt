@@ -1,0 +1,13 @@
+C:\Users\Arturo\source\repos\Practices-70-483-2020\ForLogic\bin\Debug\netcoreapp3.1\ForLogic.exe
+C:\Users\Arturo\source\repos\Practices-70-483-2020\ForLogic\bin\Debug\netcoreapp3.1\ForLogic.deps.json
+C:\Users\Arturo\source\repos\Practices-70-483-2020\ForLogic\bin\Debug\netcoreapp3.1\ForLogic.runtimeconfig.json
+C:\Users\Arturo\source\repos\Practices-70-483-2020\ForLogic\bin\Debug\netcoreapp3.1\ForLogic.runtimeconfig.dev.json
+C:\Users\Arturo\source\repos\Practices-70-483-2020\ForLogic\bin\Debug\netcoreapp3.1\ForLogic.dll
+C:\Users\Arturo\source\repos\Practices-70-483-2020\ForLogic\bin\Debug\netcoreapp3.1\ForLogic.pdb
+C:\Users\Arturo\source\repos\Practices-70-483-2020\ForLogic\obj\Debug\netcoreapp3.1\ForLogic.csprojAssemblyReference.cache
+C:\Users\Arturo\source\repos\Practices-70-483-2020\ForLogic\obj\Debug\netcoreapp3.1\ForLogic.AssemblyInfoInputs.cache
+C:\Users\Arturo\source\repos\Practices-70-483-2020\ForLogic\obj\Debug\netcoreapp3.1\ForLogic.AssemblyInfo.cs
+C:\Users\Arturo\source\repos\Practices-70-483-2020\ForLogic\obj\Debug\netcoreapp3.1\ForLogic.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\source\repos\Practices-70-483-2020\ForLogic\obj\Debug\netcoreapp3.1\ForLogic.dll
+C:\Users\Arturo\source\repos\Practices-70-483-2020\ForLogic\obj\Debug\netcoreapp3.1\ForLogic.pdb
+C:\Users\Arturo\source\repos\Practices-70-483-2020\ForLogic\obj\Debug\netcoreapp3.1\ForLogic.genruntimeconfig.cache

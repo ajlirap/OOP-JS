@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OFreYb5USofKhh8CmF86xvHAA0ChRVkklbk+um7WosP2mMW7P+JJT52Xv/jGRTQnsnMfGMP1jBhNgAjO8K4yUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arturo\\source\\repos\\XmlReader\\XmlReader\\XmlReader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arturo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+C:\Users\Arturo\source\repos\XmlReader\XmlReader\bin\Debug\netcoreapp3.1\XmlReader.exe
+C:\Users\Arturo\source\repos\XmlReader\XmlReader\bin\Debug\netcoreapp3.1\XmlReader.deps.json
+C:\Users\Arturo\source\repos\XmlReader\XmlReader\bin\Debug\netcoreapp3.1\XmlReader.runtimeconfig.json
+C:\Users\Arturo\source\repos\XmlReader\XmlReader\bin\Debug\netcoreapp3.1\XmlReader.runtimeconfig.dev.json
+C:\Users\Arturo\source\repos\XmlReader\XmlReader\bin\Debug\netcoreapp3.1\XmlReader.dll
+C:\Users\Arturo\source\repos\XmlReader\XmlReader\bin\Debug\netcoreapp3.1\XmlReader.pdb
+C:\Users\Arturo\source\repos\XmlReader\XmlReader\obj\Debug\netcoreapp3.1\XmlReader.csprojAssemblyReference.cache
+C:\Users\Arturo\source\repos\XmlReader\XmlReader\obj\Debug\netcoreapp3.1\XmlReader.AssemblyInfoInputs.cache
+C:\Users\Arturo\source\repos\XmlReader\XmlReader\obj\Debug\netcoreapp3.1\XmlReader.AssemblyInfo.cs
+C:\Users\Arturo\source\repos\XmlReader\XmlReader\obj\Debug\netcoreapp3.1\XmlReader.dll
+C:\Users\Arturo\source\repos\XmlReader\XmlReader\obj\Debug\netcoreapp3.1\XmlReader.pdb
+C:\Users\Arturo\source\repos\XmlReader\XmlReader\obj\Debug\netcoreapp3.1\XmlReader.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\source\repos\XmlReader\XmlReader\obj\Debug\netcoreapp3.1\XmlReader.genruntimeconfig.cache
